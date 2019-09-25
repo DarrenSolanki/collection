@@ -10,7 +10,7 @@ public class AddAll {
 		ArrayList a1 = new ArrayList();
 		a1.add(10);
 		a1.add(20);
-		a1.add(30);
+
 
 		ArrayList a2 = new ArrayList();
 		a2.add(40);
